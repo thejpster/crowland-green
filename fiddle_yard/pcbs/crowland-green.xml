@@ -1,0 +1,914 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/jonathan/Documents/github/crowland-green/fiddle_yard/pcbs/crowland-green.kicad_sch</source>
+    <date>Sun 09 Jun 2024 21:27:45 BST</date>
+    <tool>Eeschema 7.0.11+1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>Crowland Green Fiddle Yard (Peterborough)</title>
+        <company>Northants and Cambs N Gauge Society</company>
+        <rev>Rev 1</rev>
+        <date>2024-06-09</date>
+        <source>crowland-green.kicad_sch</source>
+        <comment number="1" value="Jonathan Pallant"/>
+        <comment number="2" value="admin@ncngauge.org.uk"/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/Point1/" tstamps="/23816abe-582e-4c24-ae49-74fc465162f1/">
+      <title_block>
+        <title>Crowland Green Fiddle Yard (Peterborough)</title>
+        <company>Northants and Cambs N Gauge Society</company>
+        <rev>Rev 1</rev>
+        <date>2024-06-09</date>
+        <source>point.kicad_sch</source>
+        <comment number="1" value="Jonathan Pallant"/>
+        <comment number="2" value="admin@ncngauge.org.uk"/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="3" name="/Point2/" tstamps="/8756d10c-ba2b-451f-a002-a6e0da39a54d/">
+      <title_block>
+        <title>Crowland Green Fiddle Yard (Peterborough)</title>
+        <company>Northants and Cambs N Gauge Society</company>
+        <rev>Rev 1</rev>
+        <date>2024-06-09</date>
+        <source>point.kicad_sch</source>
+        <comment number="1" value="Jonathan Pallant"/>
+        <comment number="2" value="admin@ncngauge.org.uk"/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="4" name="/Point3/" tstamps="/fd257e07-6e1f-4da8-8b5a-384930844b37/">
+      <title_block>
+        <title>Crowland Green Fiddle Yard (Peterborough)</title>
+        <company>Northants and Cambs N Gauge Society</company>
+        <rev>Rev 1</rev>
+        <date>2024-06-09</date>
+        <source>point.kicad_sch</source>
+        <comment number="1" value="Jonathan Pallant"/>
+        <comment number="2" value="admin@ncngauge.org.uk"/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="5" name="/Point4/" tstamps="/9f19c20f-9e96-4dbc-95f5-bee9db12b6e9/">
+      <title_block>
+        <title>Crowland Green Fiddle Yard (Peterborough)</title>
+        <company>Northants and Cambs N Gauge Society</company>
+        <rev>Rev 1</rev>
+        <date>2024-06-09</date>
+        <source>point.kicad_sch</source>
+        <comment number="1" value="Jonathan Pallant"/>
+        <comment number="2" value="admin@ncngauge.org.uk"/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="6" name="/Point5/" tstamps="/0e6e2def-04e5-430f-87e6-1db048803723/">
+      <title_block>
+        <title>Crowland Green Fiddle Yard (Peterborough)</title>
+        <company>Northants and Cambs N Gauge Society</company>
+        <rev>Rev 1</rev>
+        <date>2024-06-09</date>
+        <source>point.kicad_sch</source>
+        <comment number="1" value="Jonathan Pallant"/>
+        <comment number="2" value="admin@ncngauge.org.uk"/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="7" name="/Point6/" tstamps="/f1d9d584-4624-4045-ad99-1dad42f2bd80/">
+      <title_block>
+        <title>Crowland Green Fiddle Yard (Peterborough)</title>
+        <company>Northants and Cambs N Gauge Society</company>
+        <rev>Rev 1</rev>
+        <date>2024-06-09</date>
+        <source>point.kicad_sch</source>
+        <comment number="1" value="Jonathan Pallant"/>
+        <comment number="2" value="admin@ncngauge.org.uk"/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="8" name="/Point7/" tstamps="/890ee3c6-f67c-46b5-9d07-258422ed1aff/">
+      <title_block>
+        <title>Crowland Green Fiddle Yard (Peterborough)</title>
+        <company>Northants and Cambs N Gauge Society</company>
+        <rev>Rev 1</rev>
+        <date>2024-06-09</date>
+        <source>point.kicad_sch</source>
+        <comment number="1" value="Jonathan Pallant"/>
+        <comment number="2" value="admin@ncngauge.org.uk"/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="D1">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0805_2012Metric</footprint>
+      <fields>
+        <field name="JLCPCB">C84256</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLCPCB" value="C84256"/>
+      <property name="Sheetname" value="Point1"/>
+      <property name="Sheetfile" value="point.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/Point1/" tstamps="/23816abe-582e-4c24-ae49-74fc465162f1/"/>
+      <tstamps>94223423-95fb-4689-a096-ec6762cdebd3</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0805_2012Metric</footprint>
+      <fields>
+        <field name="JLCPCB">C84256</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLCPCB" value="C84256"/>
+      <property name="Sheetname" value="Point1"/>
+      <property name="Sheetfile" value="point.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/Point1/" tstamps="/23816abe-582e-4c24-ae49-74fc465162f1/"/>
+      <tstamps>667f0144-ff5d-4968-9f84-26c7ab3a15c4</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_01x05_Pin</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Conn_01x05_Pin" description="Generic connector, single row, 01x05, script generated"/>
+      <property name="JLCPCB" value=""/>
+      <property name="Sheetname" value="Point1"/>
+      <property name="Sheetfile" value="point.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x05, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/Point1/" tstamps="/23816abe-582e-4c24-ae49-74fc465162f1/"/>
+      <tstamps>fdbf2433-977d-4925-9512-1b2bf5b8f9bf</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>560</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="JLCPCB">C28636</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="JLCPCB" value="C28636"/>
+      <property name="Sheetname" value="Point1"/>
+      <property name="Sheetfile" value="point.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Point1/" tstamps="/23816abe-582e-4c24-ae49-74fc465162f1/"/>
+      <tstamps>45e6c1f3-ebe9-4b3a-9544-0b19ff980ea8</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>SW_SPST</value>
+      <footprint>Button_Switch_SMD:SW_Push_1P1T_XKB_TS-1187A</footprint>
+      <fields>
+        <field name="JLCPCB">C318884</field>
+      </fields>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <property name="JLCPCB" value="C318884"/>
+      <property name="Sheetname" value="Point1"/>
+      <property name="Sheetfile" value="point.kicad_sch"/>
+      <property name="ki_description" value="Single Pole Single Throw (SPST) switch"/>
+      <property name="ki_keywords" value="switch lever"/>
+      <sheetpath names="/Point1/" tstamps="/23816abe-582e-4c24-ae49-74fc465162f1/"/>
+      <tstamps>93e67954-43ed-4ac2-90ef-3e92cfc3d353</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0805_2012Metric</footprint>
+      <fields>
+        <field name="JLCPCB">C84256</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLCPCB" value="C84256"/>
+      <property name="Sheetname" value="Point2"/>
+      <property name="Sheetfile" value="point.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/Point2/" tstamps="/8756d10c-ba2b-451f-a002-a6e0da39a54d/"/>
+      <tstamps>94223423-95fb-4689-a096-ec6762cdebd3</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0805_2012Metric</footprint>
+      <fields>
+        <field name="JLCPCB">C84256</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLCPCB" value="C84256"/>
+      <property name="Sheetname" value="Point2"/>
+      <property name="Sheetfile" value="point.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/Point2/" tstamps="/8756d10c-ba2b-451f-a002-a6e0da39a54d/"/>
+      <tstamps>667f0144-ff5d-4968-9f84-26c7ab3a15c4</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_01x05_Pin</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Conn_01x05_Pin" description="Generic connector, single row, 01x05, script generated"/>
+      <property name="JLCPCB" value=""/>
+      <property name="Sheetname" value="Point2"/>
+      <property name="Sheetfile" value="point.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x05, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/Point2/" tstamps="/8756d10c-ba2b-451f-a002-a6e0da39a54d/"/>
+      <tstamps>fdbf2433-977d-4925-9512-1b2bf5b8f9bf</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>560</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="JLCPCB">C28636</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="JLCPCB" value="C28636"/>
+      <property name="Sheetname" value="Point2"/>
+      <property name="Sheetfile" value="point.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Point2/" tstamps="/8756d10c-ba2b-451f-a002-a6e0da39a54d/"/>
+      <tstamps>45e6c1f3-ebe9-4b3a-9544-0b19ff980ea8</tstamps>
+    </comp>
+    <comp ref="SW2">
+      <value>SW_SPST</value>
+      <footprint>Button_Switch_SMD:SW_Push_1P1T_XKB_TS-1187A</footprint>
+      <fields>
+        <field name="JLCPCB">C318884</field>
+      </fields>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <property name="JLCPCB" value="C318884"/>
+      <property name="Sheetname" value="Point2"/>
+      <property name="Sheetfile" value="point.kicad_sch"/>
+      <property name="ki_description" value="Single Pole Single Throw (SPST) switch"/>
+      <property name="ki_keywords" value="switch lever"/>
+      <sheetpath names="/Point2/" tstamps="/8756d10c-ba2b-451f-a002-a6e0da39a54d/"/>
+      <tstamps>93e67954-43ed-4ac2-90ef-3e92cfc3d353</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0805_2012Metric</footprint>
+      <fields>
+        <field name="JLCPCB">C84256</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLCPCB" value="C84256"/>
+      <property name="Sheetname" value="Point3"/>
+      <property name="Sheetfile" value="point.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/Point3/" tstamps="/fd257e07-6e1f-4da8-8b5a-384930844b37/"/>
+      <tstamps>94223423-95fb-4689-a096-ec6762cdebd3</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0805_2012Metric</footprint>
+      <fields>
+        <field name="JLCPCB">C84256</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLCPCB" value="C84256"/>
+      <property name="Sheetname" value="Point3"/>
+      <property name="Sheetfile" value="point.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/Point3/" tstamps="/fd257e07-6e1f-4da8-8b5a-384930844b37/"/>
+      <tstamps>667f0144-ff5d-4968-9f84-26c7ab3a15c4</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Conn_01x05_Pin</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Conn_01x05_Pin" description="Generic connector, single row, 01x05, script generated"/>
+      <property name="JLCPCB" value=""/>
+      <property name="Sheetname" value="Point3"/>
+      <property name="Sheetfile" value="point.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x05, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/Point3/" tstamps="/fd257e07-6e1f-4da8-8b5a-384930844b37/"/>
+      <tstamps>fdbf2433-977d-4925-9512-1b2bf5b8f9bf</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>560</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="JLCPCB">C28636</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="JLCPCB" value="C28636"/>
+      <property name="Sheetname" value="Point3"/>
+      <property name="Sheetfile" value="point.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Point3/" tstamps="/fd257e07-6e1f-4da8-8b5a-384930844b37/"/>
+      <tstamps>45e6c1f3-ebe9-4b3a-9544-0b19ff980ea8</tstamps>
+    </comp>
+    <comp ref="SW3">
+      <value>SW_SPST</value>
+      <footprint>Button_Switch_SMD:SW_Push_1P1T_XKB_TS-1187A</footprint>
+      <fields>
+        <field name="JLCPCB">C318884</field>
+      </fields>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <property name="JLCPCB" value="C318884"/>
+      <property name="Sheetname" value="Point3"/>
+      <property name="Sheetfile" value="point.kicad_sch"/>
+      <property name="ki_description" value="Single Pole Single Throw (SPST) switch"/>
+      <property name="ki_keywords" value="switch lever"/>
+      <sheetpath names="/Point3/" tstamps="/fd257e07-6e1f-4da8-8b5a-384930844b37/"/>
+      <tstamps>93e67954-43ed-4ac2-90ef-3e92cfc3d353</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0805_2012Metric</footprint>
+      <fields>
+        <field name="JLCPCB">C84256</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLCPCB" value="C84256"/>
+      <property name="Sheetname" value="Point4"/>
+      <property name="Sheetfile" value="point.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/Point4/" tstamps="/9f19c20f-9e96-4dbc-95f5-bee9db12b6e9/"/>
+      <tstamps>94223423-95fb-4689-a096-ec6762cdebd3</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0805_2012Metric</footprint>
+      <fields>
+        <field name="JLCPCB">C84256</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLCPCB" value="C84256"/>
+      <property name="Sheetname" value="Point4"/>
+      <property name="Sheetfile" value="point.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/Point4/" tstamps="/9f19c20f-9e96-4dbc-95f5-bee9db12b6e9/"/>
+      <tstamps>667f0144-ff5d-4968-9f84-26c7ab3a15c4</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>Conn_01x05_Pin</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Conn_01x05_Pin" description="Generic connector, single row, 01x05, script generated"/>
+      <property name="JLCPCB" value=""/>
+      <property name="Sheetname" value="Point4"/>
+      <property name="Sheetfile" value="point.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x05, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/Point4/" tstamps="/9f19c20f-9e96-4dbc-95f5-bee9db12b6e9/"/>
+      <tstamps>fdbf2433-977d-4925-9512-1b2bf5b8f9bf</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>560</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="JLCPCB">C28636</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="JLCPCB" value="C28636"/>
+      <property name="Sheetname" value="Point4"/>
+      <property name="Sheetfile" value="point.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Point4/" tstamps="/9f19c20f-9e96-4dbc-95f5-bee9db12b6e9/"/>
+      <tstamps>45e6c1f3-ebe9-4b3a-9544-0b19ff980ea8</tstamps>
+    </comp>
+    <comp ref="SW4">
+      <value>SW_SPST</value>
+      <footprint>Button_Switch_SMD:SW_Push_1P1T_XKB_TS-1187A</footprint>
+      <fields>
+        <field name="JLCPCB">C318884</field>
+      </fields>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <property name="JLCPCB" value="C318884"/>
+      <property name="Sheetname" value="Point4"/>
+      <property name="Sheetfile" value="point.kicad_sch"/>
+      <property name="ki_description" value="Single Pole Single Throw (SPST) switch"/>
+      <property name="ki_keywords" value="switch lever"/>
+      <sheetpath names="/Point4/" tstamps="/9f19c20f-9e96-4dbc-95f5-bee9db12b6e9/"/>
+      <tstamps>93e67954-43ed-4ac2-90ef-3e92cfc3d353</tstamps>
+    </comp>
+    <comp ref="D9">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0805_2012Metric</footprint>
+      <fields>
+        <field name="JLCPCB">C84256</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLCPCB" value="C84256"/>
+      <property name="Sheetname" value="Point5"/>
+      <property name="Sheetfile" value="point.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/Point5/" tstamps="/0e6e2def-04e5-430f-87e6-1db048803723/"/>
+      <tstamps>94223423-95fb-4689-a096-ec6762cdebd3</tstamps>
+    </comp>
+    <comp ref="D10">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0805_2012Metric</footprint>
+      <fields>
+        <field name="JLCPCB">C84256</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLCPCB" value="C84256"/>
+      <property name="Sheetname" value="Point5"/>
+      <property name="Sheetfile" value="point.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/Point5/" tstamps="/0e6e2def-04e5-430f-87e6-1db048803723/"/>
+      <tstamps>667f0144-ff5d-4968-9f84-26c7ab3a15c4</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>Conn_01x05_Pin</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Conn_01x05_Pin" description="Generic connector, single row, 01x05, script generated"/>
+      <property name="JLCPCB" value=""/>
+      <property name="Sheetname" value="Point5"/>
+      <property name="Sheetfile" value="point.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x05, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/Point5/" tstamps="/0e6e2def-04e5-430f-87e6-1db048803723/"/>
+      <tstamps>fdbf2433-977d-4925-9512-1b2bf5b8f9bf</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>560</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="JLCPCB">C28636</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="JLCPCB" value="C28636"/>
+      <property name="Sheetname" value="Point5"/>
+      <property name="Sheetfile" value="point.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Point5/" tstamps="/0e6e2def-04e5-430f-87e6-1db048803723/"/>
+      <tstamps>45e6c1f3-ebe9-4b3a-9544-0b19ff980ea8</tstamps>
+    </comp>
+    <comp ref="SW5">
+      <value>SW_SPST</value>
+      <footprint>Button_Switch_SMD:SW_Push_1P1T_XKB_TS-1187A</footprint>
+      <fields>
+        <field name="JLCPCB">C318884</field>
+      </fields>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <property name="JLCPCB" value="C318884"/>
+      <property name="Sheetname" value="Point5"/>
+      <property name="Sheetfile" value="point.kicad_sch"/>
+      <property name="ki_description" value="Single Pole Single Throw (SPST) switch"/>
+      <property name="ki_keywords" value="switch lever"/>
+      <sheetpath names="/Point5/" tstamps="/0e6e2def-04e5-430f-87e6-1db048803723/"/>
+      <tstamps>93e67954-43ed-4ac2-90ef-3e92cfc3d353</tstamps>
+    </comp>
+    <comp ref="D11">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0805_2012Metric</footprint>
+      <fields>
+        <field name="JLCPCB">C84256</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLCPCB" value="C84256"/>
+      <property name="Sheetname" value="Point6"/>
+      <property name="Sheetfile" value="point.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/Point6/" tstamps="/f1d9d584-4624-4045-ad99-1dad42f2bd80/"/>
+      <tstamps>94223423-95fb-4689-a096-ec6762cdebd3</tstamps>
+    </comp>
+    <comp ref="D12">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0805_2012Metric</footprint>
+      <fields>
+        <field name="JLCPCB">C84256</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLCPCB" value="C84256"/>
+      <property name="Sheetname" value="Point6"/>
+      <property name="Sheetfile" value="point.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/Point6/" tstamps="/f1d9d584-4624-4045-ad99-1dad42f2bd80/"/>
+      <tstamps>667f0144-ff5d-4968-9f84-26c7ab3a15c4</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>Conn_01x05_Pin</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Conn_01x05_Pin" description="Generic connector, single row, 01x05, script generated"/>
+      <property name="JLCPCB" value=""/>
+      <property name="Sheetname" value="Point6"/>
+      <property name="Sheetfile" value="point.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x05, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/Point6/" tstamps="/f1d9d584-4624-4045-ad99-1dad42f2bd80/"/>
+      <tstamps>fdbf2433-977d-4925-9512-1b2bf5b8f9bf</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>560</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="JLCPCB">C28636</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="JLCPCB" value="C28636"/>
+      <property name="Sheetname" value="Point6"/>
+      <property name="Sheetfile" value="point.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Point6/" tstamps="/f1d9d584-4624-4045-ad99-1dad42f2bd80/"/>
+      <tstamps>45e6c1f3-ebe9-4b3a-9544-0b19ff980ea8</tstamps>
+    </comp>
+    <comp ref="SW6">
+      <value>SW_SPST</value>
+      <footprint>Button_Switch_SMD:SW_Push_1P1T_XKB_TS-1187A</footprint>
+      <fields>
+        <field name="JLCPCB">C318884</field>
+      </fields>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <property name="JLCPCB" value="C318884"/>
+      <property name="Sheetname" value="Point6"/>
+      <property name="Sheetfile" value="point.kicad_sch"/>
+      <property name="ki_description" value="Single Pole Single Throw (SPST) switch"/>
+      <property name="ki_keywords" value="switch lever"/>
+      <sheetpath names="/Point6/" tstamps="/f1d9d584-4624-4045-ad99-1dad42f2bd80/"/>
+      <tstamps>93e67954-43ed-4ac2-90ef-3e92cfc3d353</tstamps>
+    </comp>
+    <comp ref="D13">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0805_2012Metric</footprint>
+      <fields>
+        <field name="JLCPCB">C84256</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLCPCB" value="C84256"/>
+      <property name="Sheetname" value="Point7"/>
+      <property name="Sheetfile" value="point.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/Point7/" tstamps="/890ee3c6-f67c-46b5-9d07-258422ed1aff/"/>
+      <tstamps>94223423-95fb-4689-a096-ec6762cdebd3</tstamps>
+    </comp>
+    <comp ref="D14">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0805_2012Metric</footprint>
+      <fields>
+        <field name="JLCPCB">C84256</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLCPCB" value="C84256"/>
+      <property name="Sheetname" value="Point7"/>
+      <property name="Sheetfile" value="point.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/Point7/" tstamps="/890ee3c6-f67c-46b5-9d07-258422ed1aff/"/>
+      <tstamps>667f0144-ff5d-4968-9f84-26c7ab3a15c4</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>Conn_01x05_Pin</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Conn_01x05_Pin" description="Generic connector, single row, 01x05, script generated"/>
+      <property name="JLCPCB" value=""/>
+      <property name="Sheetname" value="Point7"/>
+      <property name="Sheetfile" value="point.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x05, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/Point7/" tstamps="/890ee3c6-f67c-46b5-9d07-258422ed1aff/"/>
+      <tstamps>fdbf2433-977d-4925-9512-1b2bf5b8f9bf</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>560</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <fields>
+        <field name="JLCPCB">C28636</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="JLCPCB" value="C28636"/>
+      <property name="Sheetname" value="Point7"/>
+      <property name="Sheetfile" value="point.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/Point7/" tstamps="/890ee3c6-f67c-46b5-9d07-258422ed1aff/"/>
+      <tstamps>45e6c1f3-ebe9-4b3a-9544-0b19ff980ea8</tstamps>
+    </comp>
+    <comp ref="SW7">
+      <value>SW_SPST</value>
+      <footprint>Button_Switch_SMD:SW_Push_1P1T_XKB_TS-1187A</footprint>
+      <fields>
+        <field name="JLCPCB">C318884</field>
+      </fields>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <property name="JLCPCB" value="C318884"/>
+      <property name="Sheetname" value="Point7"/>
+      <property name="Sheetfile" value="point.kicad_sch"/>
+      <property name="ki_description" value="Single Pole Single Throw (SPST) switch"/>
+      <property name="ki_keywords" value="switch lever"/>
+      <sheetpath names="/Point7/" tstamps="/890ee3c6-f67c-46b5-9d07-258422ed1aff/"/>
+      <tstamps>93e67954-43ed-4ac2-90ef-3e92cfc3d353</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="Conn_01x05_Pin">
+      <description>Generic connector, single row, 01x05, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x05_Pin</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_SPST">
+      <description>Single Pole Single Throw (SPST) switch</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_SPST</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>/usr/share/kicad/symbols//Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/usr/share/kicad/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="Switch">
+      <uri>/usr/share/kicad/symbols//Switch.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/Point1/LED_C">
+      <node ref="J1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+    <net code="2" name="/Point1/LED_L">
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="3" name="/Point1/LED_R">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J1" pin="5" pinfunction="Pin_5" pintype="passive"/>
+    </net>
+    <net code="4" name="/Point1/SW_L">
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="SW1" pin="2" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="5" name="/Point1/SW_R">
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="SW1" pin="1" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="6" name="/Point2/LED_C">
+      <node ref="J2" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="7" name="/Point2/LED_L">
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="8" name="/Point2/LED_R">
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J2" pin="5" pinfunction="Pin_5" pintype="passive"/>
+    </net>
+    <net code="9" name="/Point2/SW_L">
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="SW2" pin="2" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="10" name="/Point2/SW_R">
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="SW2" pin="1" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="11" name="/Point3/LED_C">
+      <node ref="J3" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+    </net>
+    <net code="12" name="/Point3/LED_L">
+      <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J3" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="13" name="/Point3/LED_R">
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J3" pin="5" pinfunction="Pin_5" pintype="passive"/>
+    </net>
+    <net code="14" name="/Point3/SW_L">
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="SW3" pin="2" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="15" name="/Point3/SW_R">
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="SW3" pin="1" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="16" name="/Point4/LED_C">
+      <node ref="J4" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+    </net>
+    <net code="17" name="/Point4/LED_L">
+      <node ref="D8" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J4" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="18" name="/Point4/LED_R">
+      <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J4" pin="5" pinfunction="Pin_5" pintype="passive"/>
+    </net>
+    <net code="19" name="/Point4/SW_L">
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="SW4" pin="2" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="20" name="/Point4/SW_R">
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="SW4" pin="1" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="21" name="/Point5/LED_C">
+      <node ref="J5" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+    </net>
+    <net code="22" name="/Point5/LED_L">
+      <node ref="D10" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J5" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="23" name="/Point5/LED_R">
+      <node ref="D9" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J5" pin="5" pinfunction="Pin_5" pintype="passive"/>
+    </net>
+    <net code="24" name="/Point5/SW_L">
+      <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="SW5" pin="2" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="25" name="/Point5/SW_R">
+      <node ref="J5" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="SW5" pin="1" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="26" name="/Point6/LED_C">
+      <node ref="J6" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+    </net>
+    <net code="27" name="/Point6/LED_L">
+      <node ref="D12" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J6" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="28" name="/Point6/LED_R">
+      <node ref="D11" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J6" pin="5" pinfunction="Pin_5" pintype="passive"/>
+    </net>
+    <net code="29" name="/Point6/SW_L">
+      <node ref="J6" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="SW6" pin="2" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="30" name="/Point6/SW_R">
+      <node ref="J6" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="SW6" pin="1" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="31" name="/Point7/LED_C">
+      <node ref="J7" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+    </net>
+    <net code="32" name="/Point7/LED_L">
+      <node ref="D14" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J7" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="33" name="/Point7/LED_R">
+      <node ref="D13" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J7" pin="5" pinfunction="Pin_5" pintype="passive"/>
+    </net>
+    <net code="34" name="/Point7/SW_L">
+      <node ref="J7" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="SW7" pin="2" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="35" name="/Point7/SW_R">
+      <node ref="J7" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="SW7" pin="1" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="36" name="Net-(D1-A)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+    </net>
+    <net code="37" name="Net-(D3-A)">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+    </net>
+    <net code="38" name="Net-(D5-A)">
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+    </net>
+    <net code="39" name="Net-(D7-A)">
+      <node ref="D7" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D8" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+    </net>
+    <net code="40" name="Net-(D10-A)">
+      <node ref="D10" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D9" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+    </net>
+    <net code="41" name="Net-(D11-A)">
+      <node ref="D11" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D12" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+    </net>
+    <net code="42" name="Net-(D13-A)">
+      <node ref="D13" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D14" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+    </net>
+  </nets>
+</export>

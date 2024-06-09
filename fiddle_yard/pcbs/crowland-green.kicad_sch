@@ -1,0 +1,142 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 7abba530-2af6-4d00-9a36-224cba12914e)
+
+  (paper "A4")
+
+  (title_block
+    (title "Crowland Green Fiddle Yard (Peterborough)")
+    (date "2024-06-09")
+    (rev "Rev 1")
+    (company "Northants and Cambs N Gauge Society")
+    (comment 1 "Jonathan Pallant")
+    (comment 2 "admin@ncngauge.org.uk")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 97.79 63.5) (size 31.75 20.955) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 0e6e2def-04e5-430f-87e6-1db048803723)
+    (property "Sheetname" "Point5" (at 97.79 62.7884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "point.kicad_sch" (at 97.79 85.0396 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "crowland-green"
+        (path "/7abba530-2af6-4d00-9a36-224cba12914e" (page "6"))
+      )
+    )
+  )
+
+  (sheet (at 97.79 35.56) (size 31.75 20.955) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 23816abe-582e-4c24-ae49-74fc465162f1)
+    (property "Sheetname" "Point1" (at 97.79 34.8484 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "point.kicad_sch" (at 97.79 57.0996 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "crowland-green"
+        (path "/7abba530-2af6-4d00-9a36-224cba12914e" (page "2"))
+      )
+    )
+  )
+
+  (sheet (at 137.16 35.56) (size 31.75 20.955) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 8756d10c-ba2b-451f-a002-a6e0da39a54d)
+    (property "Sheetname" "Point2" (at 137.16 34.8484 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "point.kicad_sch" (at 137.16 57.0996 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "crowland-green"
+        (path "/7abba530-2af6-4d00-9a36-224cba12914e" (page "3"))
+      )
+    )
+  )
+
+  (sheet (at 173.99 64.135) (size 31.75 20.955) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 890ee3c6-f67c-46b5-9d07-258422ed1aff)
+    (property "Sheetname" "Point7" (at 173.99 63.4234 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "point.kicad_sch" (at 173.99 85.6746 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "crowland-green"
+        (path "/7abba530-2af6-4d00-9a36-224cba12914e" (page "8"))
+      )
+    )
+  )
+
+  (sheet (at 209.55 36.195) (size 31.75 20.955) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 9f19c20f-9e96-4dbc-95f5-bee9db12b6e9)
+    (property "Sheetname" "Point4" (at 209.55 35.4834 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "point.kicad_sch" (at 209.55 57.7346 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "crowland-green"
+        (path "/7abba530-2af6-4d00-9a36-224cba12914e" (page "5"))
+      )
+    )
+  )
+
+  (sheet (at 136.525 63.5) (size 31.75 20.955) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid f1d9d584-4624-4045-ad99-1dad42f2bd80)
+    (property "Sheetname" "Point6" (at 136.525 62.7884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "point.kicad_sch" (at 136.525 85.0396 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "crowland-green"
+        (path "/7abba530-2af6-4d00-9a36-224cba12914e" (page "7"))
+      )
+    )
+  )
+
+  (sheet (at 173.99 36.195) (size 31.75 20.955) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid fd257e07-6e1f-4da8-8b5a-384930844b37)
+    (property "Sheetname" "Point3" (at 173.99 35.4834 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "point.kicad_sch" (at 173.99 57.7346 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "crowland-green"
+        (path "/7abba530-2af6-4d00-9a36-224cba12914e" (page "4"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
